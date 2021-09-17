@@ -5,6 +5,8 @@ H.P. Lovecraft Character-level RNN Text Generator
 
 Lovecraft RNN text generator in TensorFlow  
 
+A 2-layer GRU character-level language model trained on The Collected Works of H.P. Lovecraft.
+
 Run the demo notebook in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/droesler/HP_Lovecraft_RNN_Text_Generator/blob/master/HPL_gen_demo.ipynb)
