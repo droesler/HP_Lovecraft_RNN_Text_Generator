@@ -3,7 +3,7 @@
 H.P. Lovecraft Character-level RNN Text Generator
 ---
 
-A 2-layer GRU character-level language model trained on a corpus of [the fiction of H.P. Lovecraft](https://www.hplovecraft.com/writings/texts/).
+A GRU-based character-level language model trained on a corpus of [the fiction of H.P. Lovecraft](https://www.hplovecraft.com/writings/texts/).
 
 Run the demo notebook in Google Colab:
 
