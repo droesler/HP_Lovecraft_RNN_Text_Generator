@@ -1,6 +1,6 @@
 :warning: (Documentation in progress!) :warning:
 
-HP_Lovecraft_RNN_Text_Generator
+H.P. Lovecraft Character-level RNN Text Generator
 ---
 
 Lovecraft RNN text generator in TensorFlow  
