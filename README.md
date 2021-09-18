@@ -19,7 +19,7 @@ They were all silent and realistic tears, and it was purely profound and perplex
 
 ### About the code
 
-A 2-layer Gated Recurrent Unit (GRU) autoregressive language model built in TensorFlow, trained on a 0.5-million token corpus of the fiction of H.P. Lovecraft.
+A 2-layer Gated Recurrent Unit (GRU) autoregressive character language model built in TensorFlow, trained for 30 epochs 0.5-million tokens of text.
 
 The notebook used to train the model can be found [here](https://github.com/droesler/HP_Lovecraft_RNN_Text_Generator/blob/main/HPL_char_LM_training.ipynb).
 
