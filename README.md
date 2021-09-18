@@ -5,7 +5,7 @@ H.P. Lovecraft Character-level RNN Text Generator
 
 A GRU-based character-level language model trained on a corpus of [the fiction of H.P. Lovecraft](https://www.hplovecraft.com/writings/texts/).
 
-Run the demo notebook in Google Colab:
+Run the demo notebook and generate new texts in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/droesler/HP_Lovecraft_RNN_Text_Generator/blob/master/HPL_gen_demo.ipynb)
 
