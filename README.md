@@ -19,7 +19,7 @@ They were all silent and realistic tears, and it was purely profound and perplex
 
 ### About the code
 
-TODO
+
 ```
 Model: "my_model"
 _________________________________________________________________
@@ -38,3 +38,6 @@ Trainable params: 10,353,756
 Non-trainable params: 0
 _________________________________________________________________
 ```
+
+This project was based on the TensorFlow RNN tutorial that can be found at https://www.tensorflow.org/text/tutorials/text_generation.
+
