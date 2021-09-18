@@ -19,7 +19,7 @@ They were all silent and realistic tears, and it was purely profound and perplex
 
 ### About the code
 
-
+The notebook used to train the model can be found [here](https://github.com/droesler/HP_Lovecraft_RNN_Text_Generator/blob/main/HPL_char_LM_training.ipynb).
 ```
 Model: "my_model"
 _________________________________________________________________
