@@ -1,4 +1,3 @@
-:warning: (Documentation in progress!) :warning:
 
 H.P. Lovecraft Character-level RNN Text Generator
 ---
